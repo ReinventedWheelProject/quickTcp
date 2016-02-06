@@ -5,7 +5,7 @@
 ```
 * fix buffer overflows.
 
-* make library stupid proof.
+* make library me proof.
 
 * one line initialization method.
 ```
