@@ -5,9 +5,11 @@
 ```
 * fix buffer overflows.
 
-* make library me proof.
+* make library mistake proof.
 
 * one line initialization method.
+
+* close connections correctly
 ```
 
 To build run `make` in the `quickTcp*/src` 
