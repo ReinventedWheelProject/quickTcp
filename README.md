@@ -1,5 +1,5 @@
 # quickTcp
- a C++ library for creating a quick tcp conection 
+ a C++ library for learning about and creating a quick tcp conection 
 
 ======= **to do list**: =======
 ```
