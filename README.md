@@ -2,14 +2,14 @@
  a C++ library for learning about and creating a quick tcp conection 
 
 ======= **to do list**: =======
-```
-* fix buffer overflows.
+- [x] fix namespace issues.
 
-* make library mistake proof.
+- [ ] fix buffer overflows.
 
-* one line initialization method.
+- [ ] make library mistake proof.
 
-* close connections correctly
-```
+- [ ] one line initialization method.
+
+- [ ] close connections correctly
 
 To build run `make` in the `quickTcp*/src` 
