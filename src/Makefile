@@ -7,7 +7,6 @@ OBJS=launcher.o
 OUTF=runnable.run
 all: clean build
 build:
-	cd src
 	$(CC) $(SRCS) -o $(OUTF) -std=c++11
 run:
 	./$(OUTF) 25566
